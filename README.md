@@ -1,6 +1,3 @@
-# Project ML BALLAND/GUILLOUARD/LAMECHE/LELOUCHE
-
-
 ## Description du projet
 
 Ce projet a pour objectif d'appliquer des techniques de Machine Learning pour la classification binaire sur deux jeux de données : 
